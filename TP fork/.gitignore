@@ -1,0 +1,6 @@
+*.o
+*.out
+find
+pingpong
+primes
+xargs
